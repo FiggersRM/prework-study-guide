@@ -2,7 +2,11 @@
 
 ## Created a Prework Study Guide to Understand the Basics of Web Devlopment
 
--Familiarzed myself with Git and GitHub to create repositories and understand the basics of them -Learned the basics of HTML, CSS, and JavaScript to create the webpage -Increased my knowledge of basic web development -Added notes along each section of the webpage to recall the information I learned throughout the process -Learned how to debug issues when they presented themselves, including ones that appeared aside from the coursework
+-Familiarzed myself with Git and GitHub to create repositories and understand the basics of them
+-Learned the basics of HTML, CSS, and JavaScript to create the webpage
+-Increased my knowledge of basic web development
+-Added notes along each section of the webpage to recall the information I learned throughout the process
+-Learned how to debug issues when they presented themselves, including ones that appeared aside from the coursework
 
 ## Installation
 
